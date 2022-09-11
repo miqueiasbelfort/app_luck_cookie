@@ -10,5 +10,5 @@
 <hr/>
 
 <div align="center">
-    <p>Build with care by <span>🧱</span> Miqueias Belfort <span>📱</span>></p>
+    <p> < Build with care by <span>🧱</span> Miqueias Belfort <span>📱</span> ></p>
 </div>
